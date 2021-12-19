@@ -4,7 +4,7 @@ Archive of everything to do with TheTrueTouch
 
 ## How to use this archive
 
-### ./scrims
+### [./scrims](./scrims)
 
 .txt files of logs.tf log ids for scrimmages on each date
 
