@@ -28,8 +28,8 @@ Files are named by their dates in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8
 
 - **Pocket Scout**: deafened
 - **Flank Scout**: RandomNameVender
-- **Pocket Soldier**: bearface, rt1k
-- **Roamer**: rt1k
+- **Pocket Soldier**: rt1k, Generic
+- **Roamer**: Generic, rt1k
 - **Demo**: Valentine, ap
 - **Medic**: certified idiot, ap, Valentine
 
