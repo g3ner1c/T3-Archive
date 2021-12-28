@@ -2,6 +2,8 @@ import data from "./scrims/scrims.json" assert { type: "json" };
 
 // document.getElementById("content").innerText = JSON.stringify(data);
 
+console.log(data);
+
 var html = "";
 
 for (var date of data) {
