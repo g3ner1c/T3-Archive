@@ -66,18 +66,18 @@ Dates are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
 
 ### Starters
 
-- **Pocket Scout**: deafened
-- **Flank Scout**: RandomNameVender
+- **Pocket Scout**: deafened, RandomNameVender
+- **Flank Scout**: RandomNameVender, deafened
 - **Pocket Soldier**: rt1k, Generic
 - **Roamer**: Generic, rt1k
-- **Demo**: Valentine, ap
-- **Medic**: certified idiot, ap, Valentine
+- **Demo**: ap, Valentine
+- **Medic**: Kanye East
 
 ### Subs
 
-- **Pocket Scout**:
-- **Flank Scout**:
+- **Pocket Scout**: Valentine, Generic
+- **Flank Scout**: Valentine, Generic
 - **Pocket Soldier**: Generic
 - **Roamer**: Generic
 - **Demo**:
-- **Medic**:
+- **Medic**: ap, Valentine

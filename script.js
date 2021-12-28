@@ -8,7 +8,7 @@ var html = "";
 
 for (var date of data) {
 
-    html += `<h3>${date["date"]}</h3>`;
+    html += `<h2>${date["date"]}</h3>`;
 
     for (var map of date["matches"]) {
 

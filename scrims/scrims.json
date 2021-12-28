@@ -46,6 +46,15 @@
         "date": "2021-12-27",
         "matches": [
             {
+                "map": "koth_product_final",
+                "logs": [
+                    "3097215"
+                ],
+                "demos": [
+                    "756524"
+                ]
+            },
+            {
                 "map": "cp_process_f9a",
                 "logs": [
                     "3097244"
