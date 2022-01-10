@@ -106,5 +106,17 @@
             "flank": false,
             "roamer": false
         }
+    },
+    {
+        "name": "Adwill",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198428759980",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": "sub",
+            "pocket": false,
+            "flank": "sub",
+            "roamer": false
+        }
     }
 ]

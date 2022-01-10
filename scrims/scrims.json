@@ -73,5 +73,124 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2021-12-30",
+        "matches": [
+            {
+                "map": "cp_process_f9a",
+                "logs": [
+                    "3099103"
+                ],
+                "demos": [
+                    "757840"
+                ]
+            },
+            {
+                "map": "cp_snakewater_final1",
+                "logs": [
+                    "3099117"
+                ],
+                "demos": [
+                    "757846"
+                ]
+            },
+            {
+                "map": "cp_process_f9a",
+                "logs": [
+                    "3099145"
+                ],
+                "demos": [
+                    "757866"
+                ]
+            },
+            {
+                "map":"koth_product_final",
+                "logs": [
+                    "3099190"
+                ],
+                "demos": [
+                    "757903"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-04",
+        "matches": [
+            {
+                "map": "cp_process_f9a",
+                "logs": [
+                    "3102254"
+                ],
+                "demos": [
+                    ""
+                ]
+            },
+            {
+                "map": "koth_clearcut_b15d",
+                "logs": [
+                    "3102277"
+                ],
+                "demos": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-06",
+        "matches": [
+            {
+                "map": "cp_gullywash_final1",
+                "logs": [
+                    "3103559"
+                ],
+                "demos": [
+                    "760989"
+                ]
+            },
+            {
+                "map": "cp_sunshine",
+                "logs": [
+                    "3103584"
+                ],
+                "demos": [
+                    "761006"
+                ]
+            },
+            {
+                "map": "koth_product_final",
+                "logs": [
+                    "3103611"
+                ],
+                "demos": [
+                    "761025"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-09",
+        "matches": [
+            {
+                "map": "cp_process_f9a",
+                "logs": [
+                    "3105835"
+                ],
+                "demos": [
+                    ""
+                ]
+            },
+            {
+                "map": "koth_clearcut_b15d",
+                "logs": [
+                    "3105875"
+                ],
+                "demos": [
+                    ""
+                ]
+            }
+        ]
     }
 ]
