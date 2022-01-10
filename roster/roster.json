@@ -89,8 +89,8 @@
         "roles": {
             "medic": false,
             "demo": false,
-            "combo": false,
-            "pocket": "main",
+            "combo": "main",
+            "pocket": "altmain",
             "flank": false,
             "roamer": false
         }
@@ -103,7 +103,7 @@
             "demo": false,
             "combo": "main",
             "pocket": false,
-            "flank": false,
+            "flank": "altmain",
             "roamer": false
         }
     },
@@ -111,12 +111,12 @@
         "name": "Adwill",
         "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198428759980",
         "roles": {
-            "medic": false,
-            "demo": false,
+            "medic": "sub",
+            "demo": "sub",
             "combo": "sub",
-            "pocket": false,
+            "pocket": "sub",
             "flank": "sub",
-            "roamer": false
+            "roamer": "sub"
         }
     }
 ]
