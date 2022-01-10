@@ -1,10 +1,10 @@
 # T3-Archive
 
-Archive of everything to do with TheTrueTouch
+TheTrueTouch Archive
 
 ## How to use this archive
 
-### [./scrims](./scrims)
+### [./scrims/scrims.json](./scrims/scrims.json)
 
 JSON file containing all the scrim matches
 
@@ -63,21 +63,3 @@ Logs and demos can be accesed by going to <https://logs.tf/{id}> and <https://de
 Dates are in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
 
 ## Roster
-
-### Starters
-
-- **Pocket Scout**: deafened, RandomNameVender
-- **Flank Scout**: RandomNameVender, deafened
-- **Pocket Soldier**: rt1k, Generic
-- **Roamer**: Generic, rt1k
-- **Demo**: ap, Valentine
-- **Medic**: Kanye East
-
-### Subs
-
-- **Pocket Scout**: Valentine, Generic
-- **Flank Scout**: Valentine, Generic
-- **Pocket Soldier**: Generic
-- **Roamer**: Generic
-- **Demo**:
-- **Medic**: ap, Valentine

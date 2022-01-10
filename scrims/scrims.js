@@ -1,4 +1,4 @@
-import data from "./scrims/scrims.json" assert { type: "json" };
+import data from "./scrims.json" assert { type: "json" };
 
 // document.getElementById("content").innerText = JSON.stringify(data);
 

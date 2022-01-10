@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Generic",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198849263860",
+        "roles": {
+            "medic": "altsub",
+            "demo": false,
+            "combo": "altsub",
+            "pocket": "sub",
+            "flank": "altsub",
+            "roamer": "sub"
+        }
+    },
+    {
+        "name": "Valentine",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198135666129",
+        "roles": {
+            "medic": "altmain",
+            "demo": "main",
+            "combo": "altmain",
+            "pocket": false,
+            "flank": "altsmain",
+            "roamer": false
+        }
+    },
+    {
+        "name": "Payday",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198308564076",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": false,
+            "pocket": "altmain",
+            "flank": false,
+            "roamer": "main"
+        }
+    },
+    {
+        "name": "Ivan",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561199017754044",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": "main",
+            "pocket": "main",
+            "flank": false,
+            "roamer": false
+        }
+    },
+    {
+        "name": "Vender",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561199189391772",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": "altmain",
+            "pocket": false,
+            "flank": "main",
+            "roamer": false
+        }
+    },
+    {
+        "name": "ap",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198833099152",
+        "roles": {
+            "medic": false,
+            "demo": "sub",
+            "combo": false,
+            "pocket": false,
+            "flank": false,
+            "roamer": false
+        }
+    },
+    {
+        "name": "yeast",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198150812403",
+        "roles": {
+            "medic": "sub",
+            "demo": false,
+            "combo": false,
+            "pocket": false,
+            "flank": false,
+            "roamer": false
+        }
+    },
+    {
+        "name": "smoobes",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198272979713",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": false,
+            "pocket": "main",
+            "flank": false,
+            "roamer": false
+        }
+    },
+    {
+        "name": "Tokey",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198272979713",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": "main",
+            "pocket": false,
+            "flank": false,
+            "roamer": false
+        }
+    }
+]
