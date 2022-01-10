@@ -16,7 +16,7 @@ for (var player of data) {
 
             case "main":
 
-                html += '<td bgcolor="#00bc3a">&#8203</td>';
+                html += '<td bgcolor="#008c3a">&#8203</td>';
                 break;
 
             case "sub":
