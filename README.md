@@ -2,6 +2,8 @@
 
 TheTrueTouch Archive
 
+*Clear your browser cache to make sure you have the most recent version*
+
 ## How to use this archive
 
 ### [./scrims/scrims.json](./scrims/scrims.json)
