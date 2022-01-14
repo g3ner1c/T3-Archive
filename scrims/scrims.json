@@ -192,5 +192,112 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2022-01-10",
+        "matches": [
+            {
+                "map": "cp_snakewater_final1",
+                "logs" : [
+                    "3106576"
+                ],
+                "demos" : [
+                    "763148"
+                ]
+            },
+            {
+                "map": "koth_product_rcx",
+                "logs" : [
+                    "3106596"
+                ],
+                "demos" : [
+                    "763170"
+                ]
+            },
+            {
+                "map": "cp_gullywash_final1",
+                "logs" : [
+                    "3106644"
+                ],
+                "demos" : [
+                    "763201"
+                ]
+            },
+            {
+                "map": "cp_sunshine",
+                "logs" : [
+                    "3106692"
+                ],
+                "demos" : [
+                    "763238"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-11",
+        "matches": [
+            {
+                "map": "koth_clearcut_b15d",
+                "logs" : [
+                    "3107344"
+                ],
+                "demos" : [
+                    "763710"
+                ]
+            },
+            {
+                "map": "cp_sunshine",
+                "logs" : [
+                    "3107391"
+                ],
+                "demos" : [
+                    "763746"
+                ]
+            },
+            {
+                "map": "cp_gullywash_final1",
+                "logs" : [
+                    "3107441"
+                ],
+                "demos" : [
+                    "763784"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-12",
+        "matches": [
+            {
+                "map": "cp_reckoner_rc6",
+                "logs": [
+                    "3107966"
+                ],
+                "demos": [
+                    ""
+                ]
+            },
+            {
+                "map": "cp_sunshine",
+                "logs": [
+                    "3107997",
+                    "3108020"
+                ],
+                "demos": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "map": "cp_gullywash_final1",
+                "logs": [
+                    "3108067"
+                ],
+                "demos": [
+                    ""
+                ]
+            }
+        ]
     }
 ]
