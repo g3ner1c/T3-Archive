@@ -41,7 +41,7 @@
         "roles": {
             "medic": false,
             "demo": false,
-            "combo": "main",
+            "combo": "altmain",
             "pocket": "main",
             "flank": false,
             "roamer": false
@@ -53,9 +53,9 @@
         "roles": {
             "medic": false,
             "demo": false,
-            "combo": "altmain",
+            "combo": "altsub",
             "pocket": false,
-            "flank": "main",
+            "flank": "sub",
             "roamer": false
         }
     },
@@ -84,14 +84,14 @@
         }
     },
     {
-        "name": "smoobes",
+        "name": "Rowan",
         "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198272979713",
         "roles": {
             "medic": false,
             "demo": false,
             "combo": "main",
             "pocket": "altmain",
-            "flank": false,
+            "flank": "main",
             "roamer": false
         }
     },
@@ -101,22 +101,22 @@
         "roles": {
             "medic": false,
             "demo": false,
-            "combo": "main",
+            "combo": "altmain",
             "pocket": false,
-            "flank": "altmain",
+            "flank": "main",
             "roamer": false
         }
     },
     {
-        "name": "Adwill",
-        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198428759980",
+        "name": "AkimboAoki",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198158323058",
         "roles": {
-            "medic": "sub",
-            "demo": "sub",
-            "combo": "sub",
-            "pocket": "sub",
-            "flank": "sub",
-            "roamer": "sub"
+            "medic": "main",
+            "demo": false,
+            "combo": false,
+            "pocket": false,
+            "flank": false,
+            "roamer": false
         }
     }
 ]
