@@ -16,9 +16,9 @@ for (var date of data) {
 
         for (var log in map["logs"]) {
 
-            html += `<h5><a href="https://logs.tf/${map["logs"][log]}">Logs</a>&nbsp;&nbsp;&nbsp;&nbsp;`;
+            html += `<h5><a href="https://logs.tf/${map["logs"][log]}" target="_blank">Logs</a>&nbsp;&nbsp;&nbsp;&nbsp;`;
 
-            html += `<a href="https://demos.tf/${map["demos"][log]}">Demos</a></h5>`;
+            html += `<a href="https://demos.tf/${map["demos"][log]}" target="_blank">Demos</a></h5>`;
 
         }
 

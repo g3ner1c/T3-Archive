@@ -8,7 +8,7 @@ var html = "";
 
 for (var player of data) {
 
-    html += `<tr> <td> <a href="${player["RGL"]}">${player["name"]}</a> </td>`;
+    html += `<tr> <td> <a href="${player["RGL"]}" target="_blank">${player["name"]}</a> </td>`;
 
     for (var role of Object.keys(player["roles"])) {
 
