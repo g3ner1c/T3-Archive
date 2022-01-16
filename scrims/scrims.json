@@ -299,5 +299,46 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2022-01-15",
+        "matches": [
+            {
+                "map": "cp_reckoner_rc6",
+                "logs": [
+                    "3110159"
+                ],
+                "demos": [
+                    ""
+                ]
+            },
+            {
+                "map": "koth_clearcut_b15d",
+                "logs": [
+                    "3110200"
+                ],
+                "demos": [
+                    ""
+                ]
+            },
+            {
+                "map": "cp_process_final",
+                "logs": [
+                    "3110289"
+                ],
+                "demos": [
+                    ""
+                ]
+            },
+            {
+                "map": "cp_snakewater_final1",
+                "logs": [
+                    "3110316"
+                ],
+                "demos": [
+                    ""
+                ]
+            }
+        ]
     }
 ]
