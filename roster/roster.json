@@ -12,12 +12,12 @@
         }
     },
     {
-        "name": "Valentine",
+        "name": "Lucid",
         "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198135666129",
         "roles": {
             "medic": "altmain",
             "demo": "main",
-            "combo": "altmain",
+            "combo": "main",
             "pocket": false,
             "flank": "altsmain",
             "roamer": false
@@ -33,18 +33,6 @@
             "pocket": "altmain",
             "flank": false,
             "roamer": "main"
-        }
-    },
-    {
-        "name": "Ivan",
-        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561199017754044",
-        "roles": {
-            "medic": false,
-            "demo": false,
-            "combo": "altmain",
-            "pocket": "main",
-            "flank": false,
-            "roamer": false
         }
     },
     {
@@ -64,7 +52,7 @@
         "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198833099152",
         "roles": {
             "medic": false,
-            "demo": "sub",
+            "demo": "main",
             "combo": false,
             "pocket": false,
             "flank": false,
@@ -92,30 +80,6 @@
             "combo": "main",
             "pocket": "altmain",
             "flank": "main",
-            "roamer": false
-        }
-    },
-    {
-        "name": "Tokey",
-        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198272979713",
-        "roles": {
-            "medic": false,
-            "demo": false,
-            "combo": "altmain",
-            "pocket": false,
-            "flank": "main",
-            "roamer": false
-        }
-    },
-    {
-        "name": "AkimboAoki",
-        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198158323058",
-        "roles": {
-            "medic": "main",
-            "demo": false,
-            "combo": false,
-            "pocket": false,
-            "flank": false,
             "roamer": false
         }
     }
