@@ -354,12 +354,118 @@
                 ]
             },
             {
-                "map": "koth_clearcut_b15d",
+                "map": "cp_process_final",
                 "logs": [
                     "3111021"
                 ],
                 "demos": [
                     "766403"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-18",
+        "matches": [
+            {
+                "map": "cp_gullywash_f5a",
+                "logs": [
+                    "3112443"
+                ],
+                "demos": [
+
+                ]
+            },
+            {
+                "map": "cp_snakewater_final1",
+                "logs": [
+                    "3112457"
+                ],
+                "demos": [
+
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-19",
+        "matches": [
+            {
+                "map": "cp_gullywash_final1",
+                "logs": [
+                    "3113137"
+                ],
+                "demos": [
+                    
+                ]
+            },
+            {
+                "map": "cp_gullywash_final1",
+                "logs": [
+                    "3113158"
+                ],
+                "demos": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-20",
+        "matches": [
+            {
+                "map": "cp_metalworks",
+                "logs": [
+                    "3113811"
+                ],
+                "demos": [
+                    "768465"
+                ]
+            },
+            {
+                "map": "cp_process_final",
+                "logs": [
+                    "3113830"
+                ],
+                "demos": [
+                    "768479"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-22",
+        "matches": [
+            {
+                "map": "cp_sunshine",
+                "logs": [
+                    "3115146"
+                ],
+                "demos": [
+                    "769473"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2022-01-23",
+        "matches": [
+            {
+                "map": "cp_snakewater_final1",
+                "logs": [
+                    "3116158"
+                ],
+                "demos": [
+                    "770202"
+                ]
+            },
+            {
+                "map": "cp_process_f7",
+                "logs": [
+                    "3116215"
+                ],
+                "demos": [
+                    "770248"
                 ]
             }
         ]

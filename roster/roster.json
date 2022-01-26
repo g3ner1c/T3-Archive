@@ -72,14 +72,38 @@
         }
     },
     {
-        "name": "Rowan",
-        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198272979713",
+        "name": "Adwill",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198428759980",
+        "roles": {
+            "medic": "main",
+            "demo": "altmain",
+            "combo": false,
+            "pocket": false,
+            "flank": false,
+            "roamer": false
+        }
+    },
+    {
+        "name": "Combust",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198164877813",
         "roles": {
             "medic": false,
             "demo": false,
-            "combo": "main",
-            "pocket": "altmain",
+            "combo": "altmain",
+            "pocket": false,
             "flank": "main",
+            "roamer": false
+        }
+    },
+    {
+        "name": "cruze",
+        "RGL": "https://rgl.gg/Public/PlayerProfile.aspx?p=76561198243188782",
+        "roles": {
+            "medic": false,
+            "demo": false,
+            "combo": false,
+            "pocket": "main",
+            "flank": false,
             "roamer": false
         }
     }
